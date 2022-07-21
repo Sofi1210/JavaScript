@@ -12,3 +12,6 @@ let colores=["amarillo","rojo","verde","azul","morado"]
 //console.log(colores)
 let comida=["salchipapas","perro","arepa de queso"]
 console.table(comida)
+
+
+let carro={}
