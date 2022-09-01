@@ -6,6 +6,9 @@ class persona {
     this.pais = pais
     this.cedula = cedula
   }
+
+  
+
   mostrarPais() {
     console.log(this.pais)
   }
@@ -13,6 +16,8 @@ class persona {
     return this.nombre
   }
 }
+
+
 
 const persona2 = new persona('steven', 26, 'masculino', 'colombia', 123)
 console.log(persona2.getnombre)
